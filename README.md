@@ -4,6 +4,7 @@ Create an interactive Bash program that uses PostgreSQL to track the customers a
 
 ### Tasks
 * Connected to a postgres server and created a salon database with the following tables:
+  
   **COMMAND**: "psql --username=username --dbname=salon
     * customers
     * appointments
